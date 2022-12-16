@@ -1,0 +1,16 @@
+app:
+  screenshots: Screenshots
+  description: Description
+  featured: Featured in
+
+footer:
+  copyright: Made with ❤️ in Europe 🇪🇺 by <a href="https://www.sandoche.com" target="_blank">Sandoche</a>
+  links:
+    - title: Github
+      url: https://play.google.com/store/apps/details?id=com.epicchain.epicnetwork
+      target: _blank
+    - title: Donate
+      url: https://play.google.com/store/apps/details?id=com.epicchain.epicnetwork
+      target: _blank
+    - title: Privacy
+      url: /privacy
